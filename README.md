@@ -16,6 +16,7 @@ The codes are divided in three folders, namely
 
 For the poroelastic models, the data can be generated with Cylinder-finalversion-annotated.wl (cylinder) or Spherical-swelling-notebook.wl (sphere). The output can be analyzed with other notebooks provided in the corresponding folders.
 
+If one wants to implement the transition, one must uncomment the indicated line to the module ParametersLoop[]. 
 
 The analysis/comparison codes are based on the generated data during the project. With the actual data (which can be retrieved from ZENODO), it is possible to generate the plots in the graduation thesis, see more information on ZENODO or thesis-plots-information.pdf. One can also generate new data themselves. Here, the codes used for analysis are provided as an example of how the data can be compared and/or analyzed. These files can be used as a starting point for analysis of the generated data.
 
