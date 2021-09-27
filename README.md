@@ -5,6 +5,10 @@ Code repository for the M.Sc. project of Quirine Braat.
 
 Folders contain the different codes that have been used to generate the results for the graduation thesis 'Anisotropic Swelling of a Cylindrical Hydrogel'. The individual folders contain README files with specific information regarding their contents. 
 
+The notebooks have been used to generate data, and figures as part of the graduation project. The corresponding data and further details are available on Zenodo with doi10.5281/zenodo.5495244. 
+
+_________________________________________________________________________________________________
+
 Some general comments about the code:
 
 
